@@ -1,5 +1,5 @@
-# PUNTO 2 - PARCIAL
+# Proyecto Final
 
-## CORRECCIÓN A PARTIR DE COMENTARIOS REALIZADOS 
+## Predcción del viento 
 
 ## Valentina Bustamante y Valentina Cabrera
